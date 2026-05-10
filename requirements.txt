@@ -1,0 +1,7 @@
+openai
+jinja2
+weasyprint
+python-dotenv
+streamlit
+pdfplumber
+pandas
