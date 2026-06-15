@@ -1,0 +1,369 @@
+{
+  "aplicacoes": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "data_aplicacao": "2026-05-10T14:22:00.000Z",
+      "empresa": "CERBRAS",
+      "cargo": "Estagiário de TI",
+      "vaga_descricao": "Principais atividades: Responsável por apoiar as atividades relacionadas ao desenvolvimento de software e sistemas dentro da equipe de Tecnologia da Informação, sob a supervisão de profissionais mais experientes.\n\nProgramação e Codificação: Colaborar no desenvolvimento de código-fonte eficiente e funcional. Participar ativamente na implementação de novas funcionalidades e melhorias nos sistemas existentes. Seguir as boas práticas de codificação e contribuir para a qualidade do código.\n\nSuporte à Análise de Requisitos: Auxiliar na compreensão e documentação de requisitos de software. Participar de reuniões para esclarecer dúvidas e alinhar expectativas com os usuários e demais membros da equipe.\n\nTestes e Depuração: Apoiar os processos de teste de software, identificando e relatando bugs. Colaborar na depuração de problemas e na implementação de soluções.\n\nDocumentação: Contribuir para a criação e manutenção da documentação técnica necessária para o desenvolvimento e manutenção de sistemas.\n\nAprendizado Contínuo: Manter-se atualizado sobre as tendências e tecnologias relevantes para o desenvolvimento de software. Participar de treinamentos e eventos relacionados à área de TI.\n\nColaboração e Comunicação: Trabalhar de forma colaborativa com outros membros da equipe de TI. Comunicar-se de maneira eficaz sobre o progresso das tarefas e desafios enfrentados.",
+      "curriculo_gerado": {
+        "resumo": "Estudante de ADS com experiência em suporte técnico, manutenção de sistemas ERP e desenvolvimento fullstack. Domínio de JavaScript, TypeScript, Git e bancos de dados SQL/NoSQL, com foco em clean code e resolução ágil de problemas. Busco estágio para contribuir com desenvolvimento de software, testes e documentação técnica.",
+        "tecnologias_destacadas": [
+          "JavaScript",
+          "TypeScript",
+          "Git",
+          "PostgreSQL",
+          "MongoDB",
+          "APIs REST",
+          "Clean Code",
+          "Scrum"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios",
+          "Jovem Aprendiz - Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "Day Notes (MERN Stack)",
+          "GameVault"
+        ]
+      },
+      "stacks_requisitadas": [
+        "Desenvolvimento de Software",
+        "Testes e Depuração",
+        "Análise de Requisitos",
+        "Documentação Técnica",
+        "Boas Práticas de Código",
+        "Trabalho em Equipe"
+      ],
+      "stacks_possuidas": [
+        "JavaScript",
+        "TypeScript",
+        "Git",
+        "SQL",
+        "NoSQL",
+        "Scrum",
+        "Clean Code"
+      ],
+      "gaps_identificados": [
+        "Testes Automatizados (Unitários/Integração)",
+        "Documentação Técnica Avançada (Swagger/ReadTheDocs)",
+        "Metodologias Formais de Teste de Software",
+        "Análise Estruturada de Requisitos"
+      ],
+      "status": "enviado",
+      "feedback": null,
+      "proximos_passos": "Estudar: Testes Unitários com Jest/RTL, Padrões de Documentação Técnica, Metodologias de Análise de Requisitos."
+    },
+    {
+      "id": "b2c3d4e5-f6g7-8901-2345-678901bcdefg",
+      "data_aplicacao": "2026-05-10T15:45:00.000Z",
+      "empresa": "Agência Choveu (via Souza Santos)",
+      "cargo": "Estágio em Desenvolvimento Web",
+      "vaga_descricao": "Vaga de Estágio – Análise e Desenvolvimento de Sistemas\nModalidade: Home Office\nEmpresa: Agência Choveu – Marketing 360º\nResidência obrigatória: São Paulo – SP\nAtividades do Estágio: Inclusão, organização e acompanhamento das demandas enviadas pelos clientes; Realização de briefings com os clientes para alinhamento das necessidades técnicas; Acompanhamento de prazos e entregas das demandas; Organização das tarefas no Trello; Apoio às atividades gerais de programação; Desenvolvimento de sites, incluindo implementação, ajustes e melhorias.\nRequisitos Técnicos: Python, CSS, HTML, PHP, JavaScript, Java, Figma, WordPress (desejável).\nPerfil Desejado: Criatividade, Organização, Proatividade, Atenção aos detalhes, Comprometimento com prazos, Boa comunicação.",
+      "curriculo_gerado": {
+        "resumo": "Estudante de ADS com forte base em desenvolvimento frontend (HTML, CSS, JS, React) e experiência com Figma e organização de tarefas ágeis. Habilidade em comunicação com clientes, cumprimento de prazos e implementação de interfaces responsivas. Familiaridade com Java e busca por evolução em PHP/WordPress.",
+        "tecnologias_destacadas": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "React",
+          "Figma",
+          "Trello",
+          "Java",
+          "Git"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "Projeto Apple",
+          "Day Notes (MERN Stack)"
+        ]
+      },
+      "stacks_requisitadas": [
+        "Python",
+        "CSS",
+        "HTML",
+        "PHP",
+        "JavaScript",
+        "Java",
+        "Figma",
+        "WordPress"
+      ],
+      "stacks_possuidas": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Java",
+        "Figma",
+        "Trello",
+        "Git"
+      ],
+      "gaps_identificados": [
+        "PHP",
+        "WordPress (customização/plugins)",
+        "Python",
+        "Fluxo de trabalho de Agências Digitais"
+      ],
+      "status": "enviado",
+      "feedback": null,
+      "proximos_passos": "Estudar: PHP básico e WordPress (temas/plugins), Python para backend, gestão de demandas em agência (briefing/entrega)."
+    },
+    {
+      "id": "c3d4e5f6-g7h8-9012-3456-789012cdefgh",
+      "data_aplicacao": "2026-05-11T09:10:00.000Z",
+      "empresa": "AOKI INOVA",
+      "cargo": "Estágio em Desenvolvimento e Suporte de Sistemas",
+      "vaga_descricao": "Responsabilidades: prestar suporte técnico interno; realizar testes de software; prestar apoio com a programação de sistemas; assessorar com o treinamento de atualizações do software; auxiliar nas demais atividades da área.\nRequisitos: Ter boa escrita, Proativo, afinidade com tecnologia, facilidade em aprendizagem. Cursando na área de desenvolvimento de sistemas/software.",
+      "curriculo_gerado": {
+        "resumo": "Estudante de ADS com experiência prática em suporte técnico corporativo, manutenção de ERP e desenvolvimento de scripts de automação. Sólida base em lógica de programação, JavaScript/TypeScript e documentação técnica. Proativo, com boa comunicação e facilidade de aprendizado em novos sistemas.",
+        "tecnologias_destacadas": [
+          "Suporte Técnico",
+          "JavaScript",
+          "TypeScript",
+          "Node.js",
+          "Git",
+          "Documentação Técnica",
+          "Scrum"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios",
+          "Jovem Aprendiz - Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "GameVault",
+          "Day Notes (MERN Stack)"
+        ]
+      },
+      "stacks_requisitadas": [
+        "Suporte Técnico",
+        "Testes de Software",
+        "Programação",
+        "Treinamento de Usuários",
+        "Implantação de Sistemas"
+      ],
+      "stacks_possuidas": [
+        "Suporte Técnico (ERP)",
+        "JavaScript/TypeScript",
+        "Node.js",
+        "Documentação Técnica",
+        "Git"
+      ],
+      "gaps_identificados": [
+        "Testes Formais de Software (QA)",
+        "Treinamento e Implantação de Sistemas",
+        "Suporte a Sistemas Legados/Empresariais"
+      ],
+      "status": "enviado",
+      "feedback": null,
+      "proximos_passos": "Estudar: Metodologias de Teste (Funcional/Integração), Gestão de Implantação de Software, Técnicas de Comunicação para Treinamento."
+    },
+    {
+      "id": "d4e5f6g7-h8i9-0123-4567-890123defghi",
+      "data_aplicacao": "2026-05-11T16:30:00.000Z",
+      "empresa": "CapLink",
+      "cargo": "Estagiário em Dados e Automação de Processos",
+      "vaga_descricao": "Responsabilidades: Realizar análise e mapeamento de processos para identificação de oportunidades de automação; Desenvolver e implementar automações de processos; Estruturar, tratar e organizar dados; Apoiar na criação de relatórios; Elaborar documentação técnica; Realizar testes manuais e automatizados; Atuar com QA; Monitorar automações em produção.\nRequisitos: Lógica de programação; JavaScript para automações; Noções de banco de dados; Excel/Google Sheets; Git; Debugging; Pensamento analítico; Organização.",
+      "curriculo_gerado": {
+        "resumo": "Estudante de ADS com domínio de JavaScript, bancos de dados SQL/NoSQL e Git. Experiência em desenvolvimento de automações (scripts), tratamento de dados via APIs e debugging de sistemas. Organização analítica e foco em melhoria contínua de processos.",
+        "tecnologias_destacadas": [
+          "JavaScript",
+          "PostgreSQL",
+          "MongoDB",
+          "Git",
+          "APIs REST",
+          "Node.js",
+          "Debugging",
+          "Scrum"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "Day Notes (MERN Stack)",
+          "GameVault"
+        ]
+      },
+      "stacks_requisitadas": [
+        "JavaScript para Automação",
+        "Banco de Dados",
+        "Excel/Google Sheets",
+        "Git",
+        "Debugging",
+        "Testes Automatizados",
+        "QA",
+        "Mapeamento de Processos"
+      ],
+      "stacks_possuidas": [
+        "JavaScript",
+        "PostgreSQL",
+        "MongoDB",
+        "Git",
+        "Debugging",
+        "APIs REST",
+        "Node.js"
+      ],
+      "gaps_identificados": [
+        "Automação de Processos (RPA/Scripts)",
+        "Excel/Google Sheets Avançado",
+        "Testes Automatizados (Cypress/Playwright)",
+        "QA e Garantia de Qualidade",
+        "Modelagem de Processos de Negócio (BPMN)"
+      ],
+      "status": "enviado",
+      "feedback": null,
+      "proximos_passos": "Estudar: Automação com JS/Python (Puppeteer/n8n), Excel/Sheets avançado, fundamentos de QA e testes automatizados, BPMN básico."
+    },
+    {
+      "id": "f97753ae-aa0a-41a0-8e62-5b87a455606f",
+      "data_aplicacao": "2026-05-10T11:43:17.693652",
+      "empresa": "Data Opportunity",
+      "cargo": "Estagiário Python - Back-end",
+      "vaga_descricao": "ESTÁGIO PYTHON - BACK-END - ÁREA AUTOMATION\n\nDescrição:\n\nO Estagiário será responsável por:\n\n-Criar códigos para Automatizar tarefas.\n\n-Criar códigos para realizar a Extração de dados Web.\n\n-Realizar diagnósticos de falhas e correções.\n\n-Atuar na manutenção de scripts. \n\n\n\nRequisitos:\n\n-Conhecimentos em Python. \n\n-Nível Superior: cursando.\n\n\nHabilidades Bem-Vindas:\n\n-Capacidade de resolver desafios com autonomia.\n\n-Familiaridade com o desenvolvimento de Automações de Tarefas e Extração de dados Web.\n\n\nRemuneração:\n\n-Remuneração compatível com o mercado.\n\n-Vale Refeição.\n\n\nLocal de Trabalho:\n\n-100% Remoto.",
+      "curriculo_gerado": {
+        "resumo": "Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em automação de rotinas de TI e manutenção de sistemas ERP. Possuo sólida base em lógica de programação e desenvolvimento de scripts para otimização de tarefas manuais. Busco aplicar meus conhecimentos em back-end e automação para gerar eficiência operacional.",
+        "tecnologias_destacadas": [
+          "Lógica de Programação",
+          "Scripts de Automação",
+          "Node.js",
+          "APIs RESTful",
+          "PostgreSQL",
+          "MongoDB",
+          "Git",
+          "Clean Code",
+          "Diagnóstico de Falhas",
+          "JavaScript ES6+"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios",
+          "Jovem Aprendiz - Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "GameVault",
+          "Day Notes (MERN Stack)"
+        ]
+      },
+      "stacks_requisitadas": [
+        "PYTHON",
+        "Python"
+      ],
+      "stacks_possuidas": [],
+      "gaps_identificados": [
+        "Python",
+        "Extração de dados Web"
+      ],
+      "status": "enviado",
+      "feedback": null,
+      "proximos_passos": "Estudar: Python, Extração de dados Web"
+    },
+    {
+      "id": "9f79b131-4863-4436-bd5d-bc2f576af534",
+      "data_criacao": "2026-05-11T22:16:47.792065",
+      "data_atualizacao": "2026-05-11T22:17:44.253922",
+      "empresa": "Empresa não identificada",
+      "cargo": "Não especificado",
+      "vaga_descricao": "A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem.\n\nTemos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100.\n\n\nJob Description\n\nResponsabilidades\n\nAtuação no desenvolvimento e sustentação de sistemas corporativos com foco em aprendizado contínuo e evolução técnica.\nDesenvolvimento em Java, .NET ou OutSystems\nSustentação de sistemas via Kanban\nCriação de queries em SQL Server e Oracle\nVersionamento com Git (Bitbucket/GitHub)\nParticipação em cerimônias ágeis\nContato com aplicações em AWS\n\nQualifications\n\nRequisitos\n\nEnsino Superior\nConhecimentos básicos em Java, .NET ou OutSystems\nLógica de programação e orientação a objetos\nNoções de banco de dados relacionais\nConhecimento inicial em Git\nDiferenciais\n\nTestes automatizados básicos\nInteresse em AWS, automação ou IA\n\nAdditional Information\n\nNa Serasa Experian, acreditamos que a diversidade é fundamental para um ambiente de trabalho mais saudável e inovador, onde todas as pessoas possam trocar experiências e expressar suas ideias. Por isso, contamos com diversas ações para promover um recrutamento inclusivo e apoiar no desenvolvimento profissional das nossas pessoas. Além disso, temos os nossos grupos de afinidade, criados para empoderar e acolher as pessoas de grupos sub-representados: ExperianPride (comunidade LGBTQIAPN+), Ubuntu (equidade racial), Women in Experian (equidade de gênero) e Aspire (pessoas com deficiência) e Connecting Generations (gerações).\n\nVenha fazer parte dessa transformação!\n\n#LI-HOME\n\nExperian Careers - Creating a better tomorrow together\n\nFind out what its like to work for Experian by clicking here",
+      "curriculo_gerado": {
+        "resumo": "Estudante de ADS com formação Fullstack e especialização em Java 22 e Spring Boot. Experiência prática em manutenção de sistemas ERP, automação de processos e desenvolvimento de APIs RESTful. Busco aplicar conhecimentos em backend corporativo, bancos de dados relacionais e IA para a evolução de sistemas escaláveis na Serasa Experian.",
+        "tecnologias_destacadas": [
+          "Java 22",
+          "Spring Boot",
+          "PostgreSQL",
+          "SQL",
+          "Git",
+          "Programação Orientada a Objetos (POO)",
+          "APIs RESTful",
+          "Machine Learning",
+          "Node.js",
+          "Kanban"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios",
+          "Jovem Aprendiz - Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "Sistema de Detecção de Fraude com IA (Weka + Java)",
+          "API RESTful com Spring Boot",
+          "GameVault"
+        ]
+      },
+      "stacks_requisitadas": [
+        "Git",
+        "AWS",
+        "Java"
+      ],
+      "stacks_possuidas": [
+        "Git"
+      ],
+      "gaps_identificados": [
+        ".NET",
+        "OutSystems",
+        "SQL Server",
+        "Oracle",
+        "Bitbucket",
+        "AWS",
+        "Testes automatizados"
+      ],
+      "status": "descartado",
+      "feedback": null,
+      "proximos_passos": "Estudar: .NET, OutSystems, SQL Server"
+    },
+    {
+      "id": "2b74524a-9895-42ad-a9be-556c42964be6",
+      "data_criacao": "2026-05-13T20:14:42.269283",
+      "data_atualizacao": "2026-05-13T20:15:02.898076",
+      "empresa": "Empresa não identificada",
+      "cargo": "Não especificado",
+      "vaga_descricao": "Descrição completa da vaga\nVaga: Desenvolvedor(a) de Software Júnior - Full Stack\n\nModelo de trabalho: 100% Home Office\n\nContratação: CLT- 40h semanais\n\nA Nexxto está ampliando seu time ARTIS e busca um(a) Desenvolvedor(a) de Software Júnior - Full Stack com conhecimento em Java para atuar na unidade de negócios de Gestão de Ativos de TI com tecnologia RFID. Essa área desenvolve soluções voltadas ao controle, rastreabilidade e gestão de ativos por meio de sistemas corporativos integrados a leitores e equipamentos RFID. O profissional terá contato tanto com o desenvolvimento das aplicações quanto com a integração entre software e hardware, atuando de forma prática no ciclo completo do sistema. A posição envolve desenvolvimento, deploy, suporte e análise de comportamento das aplicações em ambiente de produção.\n\nAtribuições do cargo:\n\n\n\nDesenvolvimento e manutenção de funcionalidades em aplicações Java (backend e web)\nApoio na implementação e ajustes em interfaces (JSF, HTML, CSS, JavaScript)\nParticipação no desenvolvimento e manutenção de aplicativo Android utilizado nas operações\nIntegração de sistemas com leitores e equipamentos RFID\nRealização de deploys das aplicações em servidores Linux\nAcompanhamento do funcionamento dos sistemas em ambiente de produção\nAnálise de logs e investigação de comportamentos inesperados\nCorreção de bugs e implementação de melhorias evolutivas\nApoio no atendimento a chamados técnicos relacionados às aplicações\nParticipação em discussões técnicas e entendimento de requisitos\nO profissional não atuará apenas codificando, mas também será responsável por acompanhar o comportamento das aplicações após a entrega, garantindo seu correto funcionamento e contribuindo para a estabilidade e evolução dos sistemas.\n\nRequisitos principais:\n\nGraduação completa em Engenharia, Ciência da Computação, Sistemas de Informação, Análise e Desenvolvimento de Sistemas ou áreas correlatas.\nPostura proativa na investigação de problemas, interesse em compreender o funcionamento completo das soluções e disposição para aprender tecnologias e contextos técnicos diversos.\nExperiência em programação Java de pelo menos 1 ano\nBoa compreensão de lógica de programação e orientação a objetos\nCapacidade de leitura e interpretação de código\nConhecimento básico em bancos de dados relacionais e SQL\nNoções de estrutura de aplicações backend\nFamiliaridade com versionamento de código (Git ou similar)\nNoções básicas de ambiente Linux (linha de comando e leitura de logs)\nCompetências desejáveis:\n\n\nExperiência ou conhecimento em EJB\nExperiência ou conhecimento em JSF\nConhecimentos em HTML, CSS e JavaScript\nExperiência ou interesse em desenvolvimento Android (Java)\nConhecimento em APIs REST e integrações entre sistemas\nFamiliaridade com servidores de aplicação (ex: GlassFish, WildFly)\nExperiência com deploy de aplicações\nNoções mais aprofundadas de Linux (gerenciamento de processos, análise de logs)\nConhecimento em integração com equipamentos ou dispositivos físicos\nInteresse ou familiaridade com tecnologia RFID\nO que oferecemos:\n\nEsta posição proporciona uma formação técnica sólida ao permitir atuação no ciclo completo de desenvolvimento de software, desde a implementação até o deploy e acompanhamento em produção. O profissional terá contato prático com backend em Java, desenvolvimento web, aplicações Android, integração com equipamentos RFID e administração básica de ambientes Linux. Além da evolução técnica, a vaga desenvolve capacidade analítica por meio da investigação de comportamentos do sistema, análise de logs e resolução de problemas reais em ambiente produtivo. Essa vivência amplia a maturidade profissional e a responsabilidade sobre as entregas.\nBenefícios:\n\n\nContratação CLT- 40h semanais\nModelo de trabalho 100% home office\nPlano de Saúde e Odontológico SulAmérica- sem desconto, sem coparticipação e extensível gratuitamente a cônjuge e filhos\nSeguro de Vida Metlife\nCartão Caju: R$1079/mês (vale refeição + auxílio home office) sem desconto\nPLR anual mediante atingimento de metas da companhia\nAuxílio creche para pais e mães de crianças até 6 anos com teto de R$ 720,00/mês\nDay off - um dia pra folgar no mês do seu aniversário",
+      "curriculo_gerado": {
+        "resumo": "Estudante de ADS com formação Fullstack e especialização em Java 22 e Spring Boot. Experiência prática em manutenção de sistemas ERP, automação de processos e desenvolvimento de APIs RESTful. Focado em entregar soluções escaláveis, com proatividade na análise de logs e resolução de problemas técnicos.",
+        "tecnologias_destacadas": [
+          "Java 22",
+          "Spring Boot",
+          "PostgreSQL",
+          "SQL",
+          "Git",
+          "Linux",
+          "REST APIs",
+          "JavaScript",
+          "HTML/CSS",
+          "Node.js"
+        ],
+        "experiencias_selecionadas": [
+          "Estagiário de Tecnologia e Negócios",
+          "Jovem Aprendiz - Tecnologia e Negócios"
+        ],
+        "projetos_selecionados": [
+          "API RESTful com Spring Boot",
+          "Sistema de Detecção de Fraude com IA (Weka + Java)",
+          "GameVault"
+        ]
+      },
+      "stacks_requisitadas": [
+        "Java",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "REST",
+        "Git"
+      ],
+      "stacks_possuidas": [
+        "JavaScript",
+        "Git"
+      ],
+      "gaps_identificados": [
+        "JSF",
+        "EJB",
+        "Android (Java)",
+        "RFID",
+        "Integração com hardware/dispositivos físicos",
+        "GlassFish",
+        "WildFly",
+        "Gerenciamento de processos Linux"
+      ],
+      "status": "descartado",
+      "feedback": null,
+      "proximos_passos": "Estudar: JSF, EJB, Android (Java)"
+    }
+  ]
+}
