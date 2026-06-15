@@ -1,32 +1,38 @@
-# Python
+# Python compile / cache files
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
 
-# Virtual Environment
+# Virtual Environments
 venv/
+.venv/
+env/
 ENV/
 
-# Environment Variables
+# Environment variables & secrets
 .env
+.env.*
+.streamlit/secrets.toml
+
+# Databases & Vector databases (like Chroma DB)
+.memorious/
+*.sqlite3
+*.db
+
+# Streamlit temporary/static files
+.streamlit/static/
+.streamlit/run/
+
+# IDEs & System files
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
+.DS_Store
+Thumbs.db
 
 # Output files
 output/*
@@ -34,10 +40,6 @@ output/*
 *.pdf
 temp_cv.html
 
-# IDEs
-.vscode/
-.idea/
-.DS_Store
-
-# Personal Data
-data/
+# Personal Data / Local settings
+data/*
+!data/.gitkeep

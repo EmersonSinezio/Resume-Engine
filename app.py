@@ -305,7 +305,7 @@ def exportar_aplicacoes(formato="json"):
         
         for app in aplicacoes:
             linha = {
-                "data_aplicacao": app.get("data_aplicacao", ""),
+                "data_aplicacao": app.get("data_aplicacao", app.get("data_criacao", "")),
                 "empresa": app.get("empresa", ""),
                 "cargo": app.get("cargo", ""),
                 "status": app.get("status", ""),
@@ -885,12 +885,15 @@ with tab_tracker:
     apps = carregar_aplicacoes().get("aplicacoes", [])[-10:]  # Últimas 10
     if apps:
         for app in reversed(apps):
-            with st.expander(f"{app['empresa']} — {app['cargo']} ({app['status']})"):
-                st.write(f"**Data:** {app['data_aplicacao'][:10]}")
-                st.write(f"**Stacks requisitadas:** {', '.join(app['stacks_requisitadas'][:5])}")
-                if app['gaps_identificados']:
-                    st.warning(f"**Gaps:** {', '.join(app['gaps_identificados'][:3])}")
-                st.write(f"**Próximos passos:** {app['proximos_passos']}")
+            with st.expander(f"{app.get('empresa', 'Empresa')} — {app.get('cargo', 'Cargo')} ({app.get('status', 'desconhecido')})"):
+                data_app = app.get("data_aplicacao", app.get("data_criacao", ""))
+                st.write(f"**Data:** {data_app[:10]}")
+                stacks = app.get("stacks_requisitadas", [])
+                st.write(f"**Stacks requisitadas:** {', '.join(stacks[:5]) if stacks else 'Não listado'}")
+                gaps = app.get("gaps_identificados", [])
+                if gaps:
+                    st.warning(f"**Gaps:** {', '.join(gaps[:3])}")
+                st.write(f"**Próximos passos:** {app.get('proximos_passos', 'Aguardar')}")
     else:
         st.info("Nenhuma aplicação registrada ainda.")
 
