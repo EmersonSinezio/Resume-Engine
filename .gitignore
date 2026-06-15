@@ -35,11 +35,8 @@ ENV/
 Thumbs.db
 
 # Output files
-output/*
 !output/.gitkeep
-*.pdf
 temp_cv.html
 
 # Personal Data / Local settings
-data/*
 !data/.gitkeep
